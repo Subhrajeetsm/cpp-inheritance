@@ -595,10 +595,10 @@ function SignInPage() {
 
       <div className="auth-wrapper">
         <div className="auth-brand">
-          <div className="auth-logo">C++</div>
+          <div className="auth-logo">PL</div>
 
           <div>
-            <strong>C++ Learning Lab</strong>
+            <strong>Programming Learning Lab</strong>
             <span>Interactive programming playground</span>
           </div>
         </div>
