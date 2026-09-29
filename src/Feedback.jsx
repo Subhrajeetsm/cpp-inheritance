@@ -69,7 +69,7 @@ function Feedback() {
       } else {
         alert(
           result.message ||
-          "Failed to submit feedback."
+          "Failed to send you mail right now thank you for feed back."
         );
       }
 
@@ -174,6 +174,9 @@ function Feedback() {
           >
             Submit Feedback
           </button>
+          <div>
+            <h2> <a href="https://forms.gle/tcepCdXrnxhgsfbB6" target="_blank">Give your valueable feedback here aslo !!!(Click here ) </a> </h2>
+          </div>
 
         </form>
 
